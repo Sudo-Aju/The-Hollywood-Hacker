@@ -58,7 +58,7 @@ The OMNI-CYBERDECK V9000 is a modular Python script designed to simulate high-te
 </ul>
 <footer>
 <hr>
-OMNI-CYBERDECK V9000 | End of Line.
+The Hollywood Hacker | End of Line.
 </footer>
 </body>
 </html>
