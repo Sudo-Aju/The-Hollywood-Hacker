@@ -3,10 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>OMNI-CYBERDECK V9000 - Readme</title>
+
 </head>
 <body>
-<h1>OMNI-CYBERDECK V9000</h1>
+  <h1>The Hollywood Hacker</h1>
+<h2>OMNI-CYBERDECK V9000 v1</h2>
 <p>
 <strong>The Ultimate Terminal Hacker Simulation Suite.</strong><br>
 Turn your console into a Hollywood-grade cyber-warfare interface.
