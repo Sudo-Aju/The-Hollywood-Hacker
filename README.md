@@ -23,16 +23,12 @@
   The OMNI-CYBERDECK V9000 is a modular Python script designed to simulate high-tech hacking environments seen in films like <em>The Matrix</em>, <em>Mr. Robot</em>, and <em>WarGames</em>. It utilizes raw ANSI escape sequences to render high-speed, multi-colored text animations without requiring any external libraries.
   </p>
 
-  <div style="margin: 30px 0; padding: 20px; background-color: #000; border: 2px dashed #333; text-align: center;">
-    <h3 style="margin-top: 0; font-family: monospace;">[ LIVE TERMINAL PREVIEW ]</h3>
-    
-  <video width="640" height="360" controls style="max-width: 100%; border: 1px solid #555;">
-      <source src="Demo.mov" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    
-  <p style="font-family: monospace; font-size: 0.9em; color: #555;">> SYSTEM READY. WAITING FOR INPUT.</p>
-  </div>
+  
+
+https://github.com/user-attachments/assets/93c19310-3488-4d56-901f-248ee40f773d
+
+
+
   <h2>Installation & Usage</h2>
   <p>No external dependencies required. Works on Windows, macOS, and Linux.</p>
 
