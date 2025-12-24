@@ -30,10 +30,10 @@ https://github.com/user-attachments/assets/93c19310-3488-4d56-901f-248ee40f773d
 
 
   <h2>Installation & Usage</h2>
-  <p>No external dependencies required. Works on Windows, macOS, and Linux.</p>
+  <p>Download the entire repository. No external dependencies required. Works on Windows, macOS, and Linux.</p>
 
   <h3>Run the Application</h3>
-  <p>Navigate to the <code>dist</code> folder and run the executable:</p>
+  <p>Once downloaded, navigate to the <code>dist</code> folder and run the executable:</p>
   <pre><code>./dist/omni_hack</code></pre>
 
   <h3>Recommended Settings</h3>
