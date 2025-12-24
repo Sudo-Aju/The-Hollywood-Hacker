@@ -32,15 +32,11 @@ https://github.com/user-attachments/assets/93c19310-3488-4d56-901f-248ee40f773d
   <h2>Installation & Usage</h2>
   <p>No external dependencies required. Works on Windows, macOS, and Linux.</p>
 
-  <h3>1. Prerequisites</h3>
-  <p>Ensure you have Python 3 installed on your system.</p>
-  <pre><code>python --version</code></pre>
+  <h3>Run the Application</h3>
+  <p>Navigate to the <code>dist</code> folder and run the executable:</p>
+  <pre><code>./dist/omni_hack</code></pre>
 
-  <h3>2. Run the Script</h3>
-  <p>Save the source code as <code>omni_hack.py</code> and run it directly in your terminal.</p>
-  <pre><code>python omni_hack.py</code></pre>
-
-  <h3>3. Recommended Settings</h3>
+  <h3>Recommended Settings</h3>
   <ul>
   <li><strong>Fullscreen Mode:</strong> Press <code>F11</code> (or equivalent) for maximum immersion.</li>
   <li><strong>Color Scheme:</strong> Set your terminal text color to bright green or amber.</li>
