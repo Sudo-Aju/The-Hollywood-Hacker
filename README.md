@@ -49,28 +49,28 @@ https://github.com/user-attachments/assets/93c19310-3488-4d56-901f-248ee40f773d
 
   <h2>Features & Modules</h2>
 
-  <h3>🌐 Network Scanner</h3>
+  <h3>Network Scanner</h3>
   <p>Rapidly scrolls through random IPs and ports, simulating vulnerability discovery.</p>
 
-  <h3>🔓 Brute Force</h3>
+  <h3>Brute Force</h3>
   <p>Simulates a dictionary attack, cycling through passwords until "Access Granted".</p>
 
-  <h3>⛏️ Crypto Miner</h3>
+  <h3>Crypto Miner</h3>
   <p>Realistic CPU mining log showing hashrates, temps, and fake Bitcoin generation.</p>
 
-  <h3>🌧️ Matrix Rain</h3>
+  <h3>Matrix Rain</h3>
   <p>The classic falling green code effect.</p>
 
-  <h3>🚁 Drone Uplink</h3>
+  <h3>Drone Uplink</h3>
   <p>Tactical interface with altitude, speed, GPS, and terrain radar data.</p>
 
-  <h3>❤️ Bio-Metrics</h3>
+  <h3>Bio-Metrics</h3>
   <p>Telemetry link showing heart rate (BPM), BP, and brainwave graphs.</p>
 
-  <h3>💬 Chat Intercept</h3>
+  <h3>Chat Intercept</h3>
   <p>Snoops on encrypted conversations between "Neo" and "Morpheus".</p>
 
-  <h3>💉 SQL Injection</h3>
+  <h3>SQL Injection</h3>
   <p>Simulates dumping database tables via web vulnerabilities.</p>
 
   <h2>Controls</h2>
